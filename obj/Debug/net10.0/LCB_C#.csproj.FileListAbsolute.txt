@@ -1,0 +1,15 @@
+D:\LCB\LCB_C#\bin\Debug\net10.0\LCB_C#.exe
+D:\LCB\LCB_C#\bin\Debug\net10.0\LCB_C#.deps.json
+D:\LCB\LCB_C#\bin\Debug\net10.0\LCB_C#.runtimeconfig.json
+D:\LCB\LCB_C#\bin\Debug\net10.0\LCB_C#.dll
+D:\LCB\LCB_C#\bin\Debug\net10.0\LCB_C#.pdb
+D:\LCB\LCB_C#\obj\Debug\net10.0\LCB_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\LCB\LCB_C#\obj\Debug\net10.0\LCB_C#.AssemblyInfoInputs.cache
+D:\LCB\LCB_C#\obj\Debug\net10.0\LCB_C#.AssemblyInfo.cs
+D:\LCB\LCB_C#\obj\Debug\net10.0\LCB_C#.csproj.CoreCompileInputs.cache
+D:\LCB\LCB_C#\obj\Debug\net10.0\LCB_C#.dll
+D:\LCB\LCB_C#\obj\Debug\net10.0\refint\LCB_C#.dll
+D:\LCB\LCB_C#\obj\Debug\net10.0\LCB_C#.pdb
+D:\LCB\LCB_C#\obj\Debug\net10.0\LCB_C#.genruntimeconfig.cache
+D:\LCB\LCB_C#\obj\Debug\net10.0\ref\LCB_C#.dll
+D:\LCB\LCB_C#\obj\Debug\net10.0\LCB_C#.sourcelink.json
